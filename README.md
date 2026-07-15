@@ -35,6 +35,7 @@
 
 ### Starters
 
+🏁 - [create-bestax](https://github.com/allxsmith/bestax/tree/main/create-bestax) - A starter for React/Bestax/Bulma/AI-powered development, built for Bulma v1
 🏁 - [bulma-start](https://github.com/jgthms/bulma-start) - A tiny npm package to get started  
 🏁 - [bulmapress](https://github.com/teamscops/bulmapress) - A WordPress flexbox theme  
 🏁 - [base-camp](https://github.com/suomato/base-camp) - Awesome WordPress starter theme with own CLI with Bulma  
@@ -51,7 +52,7 @@
 🏁 - [react-starter](https://github.com/chvid/react-starter) - A starter for React/Bulma/Webpack  
 🏁 - [next-bulma](https://github.com/louiskhenghao/next-bulma) - NextJs with Bulma CSS Framework  
 🏁 - [hyperbulma](https://github.com/cutemachine/hyperbulma) - A starter project for using Hyperapp with Bulma CSS  
-🏁 - [parcel-starter-kit](https://github.com/emendelski/parcel-starter-kit) - Simple boilerplate: Parcel, Bulma, Babel, Autoprefixer, Posthtml, Eslint and SCSS
+🏁 - [parcel-starter-kit](https://github.com/emendelski/parcel-starter-kit) - Simple boilerplate: Parcel, Bulma, Babel, Autoprefixer, Posthtml, Eslint and SCSS  
 
 ### IDE Extensions
 
@@ -141,6 +142,7 @@
 ## UI Libraries & Components
 
 - [buefy](https://buefy.org/) - Lightweight UI components for Vue.js based on Bulma
+- [Bestax](https://github.com/allxsmith/bestax) - A full-featured React library for Bulma, built for AI-powered development
 - [bulma-rails](https://github.com/joshuajansen/bulma-rails/) - Integrates Bulma with the rails asset pipeline
 - [react-bulma-components](https://github.com/couds/react-bulma-components/) - React components for Bulma
 - [bloomer](https://github.com/AlgusDark/bloomer/) - A set of React components for Bulma
