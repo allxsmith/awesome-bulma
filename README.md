@@ -20,6 +20,7 @@
     - [Video Tutorials](#video-tutorials)
     - [Courses](#courses)
 - [UI Libraries & Components](#ui-libraries--components)
+- [AI Coding Agents](#ai-coding-agents)
 - [Extensions](#extensions)
 - [Expo](#expo)
 
@@ -195,6 +196,11 @@
 - [ng-wizi-bulma](https://github.com/WiziShop/ng-wizi-bulma/) - Bulma components for Angular
 - [bulma.io-axure](https://github.com/AGmakonts/Bulma.io-axure) - AxureRP Library with Bulma components
 - [ralma](https://github.com/aldi/ralma/) - Ractive.js Components for Bulma
+
+## AI Coding Agents
+
+- [bestax-mcp](https://github.com/allxsmith/bestax/tree/main/bestax-mcp) - MCP server that gives coding agents the Bestax props, examples and Bulma CSS variables, offline  
+- [Bestax Skills](https://github.com/allxsmith/bestax/tree/main/skills) - Agent Skills for building forms, layouts, theming and icons with Bestax on Bulma v1  
 
 ## Extensions
 
